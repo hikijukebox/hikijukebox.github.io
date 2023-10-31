@@ -2,7 +2,7 @@
 title = "me"
 
   [[entries.entries]]
-  title = "some notes about my daily life"
+  title = "some notes about daily life"
 
   [[entries.entries]]
   title = "<a href='mailto:hiki3-ds@proton.me'>email</a>"
@@ -24,4 +24,4 @@ title = "rss"
 url = "index.xml"
 
 [[entries]]
-title = "2023 by hiki"
+title = "© 2023 by hiki"
